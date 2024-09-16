@@ -101,4 +101,4 @@ function updateChart() {
       maintainAspectRatio: false,
     },
   });
-}
+} 
